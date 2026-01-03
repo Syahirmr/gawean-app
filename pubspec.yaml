@@ -38,6 +38,9 @@ flutter:
 
   assets:
     - assets/images/gawean.png
+    - assets/team/salma.jpeg
+    - assets/team/sarah.jpeg
+    - assets/team/syahir.png
 
 flutter_launcher_icons:
   android: true
