@@ -1,113 +1,80 @@
 # Gawean – Gamified To-Do List Application 🎯
 
-Gawean adalah aplikasi **To-Do List berbasis gamifikasi** yang dirancang untuk membantu pengguna meningkatkan **motivasi, konsistensi, dan produktivitas** dalam menyelesaikan tugas harian.  
-Aplikasi ini dikembangkan sebagai bagian dari **Tugas Akhir Mata Kuliah Interaksi Manusia dan Komputer (IMK)**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design">
+</p>
+
+**Gawean** adalah aplikasi To-Do List berbasis gamifikasi yang dirancang untuk meningkatkan motivasi, konsistensi, dan produktivitas harian. Proyek ini dikembangkan sebagai **Tugas Akhir Mata Kuliah Interaksi Manusia dan Komputer (IMK)**.
 
 ---
 
 ## 👨‍💻 Our Team
 
-<p align="center">
-  <a href="https://github.com/Syahirmr">
-    <img src="assets/team/syahir.png" width="140" style="border-radius:50%"/><br/>
-    <b>Syahir Mohamad Ramdhan</b><br/>
-    1237050022
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Skskydh">
-    <img src="assets/team/salma.jpeg" width="140" style="border-radius:50%"/><br/>
-    <b>Salma Nur Oktavia</b><br/>
-    1237050028
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Sarahnurulyakin">
-    <img src="assets/team/sarah.jpeg" width="140" style="border-radius:50%"/><br/>
-    <b>Sarah Nurul Yakin</b><br/>
-    1237050014
-  </a>
-</p>
+| [<img src="assets/team/syahir.png" width="150"><br><sub>**Syahir Mohamad Ramdhan**</sub>](https://github.com/Syahirmr)<br>1237050022 | [<img src="assets/team/salma.jpeg" width="150"><br><sub>**Salma Nur Oktavia**</sub>](https://github.com/Skskydh)<br>1237050028 | [<img src="assets/team/sarah.jpeg" width="150"><br><sub>**Sarah Nurul Yakin**</sub>](https://github.com/Sarahnurulyakin)<br>1237050014 |
+| :---: | :---: | :---: |
+| UI/UX Designer | Frontend Developer | Documentation & QA |
 
 <p align="center">
-  <a href="https://uinsgd.ac.id/">Universitas Islam Negeri Sunan Gunung Djati Bandung</a><br/>
+  <b>Informatics Engineering</b><br>
+  <a href="https://uinsgd.ac.id/">UIN Sunan Gunung Djati Bandung</a> • 
   <a href="http://if.uinsgd.ac.id/">Jurusan Teknik Informatika</a>
 </p>
 
 ---
 
-## 📌 Latar Belakang Masalah
+## 📂 Project Resources
 
-Produktivitas merupakan aspek penting dalam kehidupan mahasiswa dan pekerja. Namun, pada kenyataannya banyak individu mengalami kesulitan dalam mengatur waktu, menjaga konsistensi, serta mempertahankan motivasi dalam menyelesaikan tugas-tugas harian.
+Untuk informasi mendalam mengenai proses perancangan dan desain aplikasi, silakan akses tautan berikut:
 
-Kurangnya motivasi, kebiasaan menunda pekerjaan (prokrastinasi), serta tidak adanya sistem pencatatan tugas yang menarik seringkali menyebabkan tugas menumpuk dan tidak terselesaikan dengan baik. Aplikasi pencatat tugas konvensional dinilai kurang mampu mendorong keterlibatan pengguna secara berkelanjutan.
-
-Oleh karena itu, diperlukan sebuah aplikasi manajemen tugas yang tidak hanya berfungsi sebagai pencatat, tetapi juga mampu meningkatkan motivasi pengguna melalui pendekatan **gamifikasi**.
+* 📚 **[Pitch Deck - Gawean Application](https://www.canva.com/design/DAG9Luq-qmo/CWSt-ZWf2xhHc_kdaDHoug/edit?utm_content=DAG9Luq-qmo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
 ---
 
-## ❗ Identifikasi Masalah
+## 📋 Ringkasan Proyek
 
-- Rendahnya konsistensi pengguna dalam menyelesaikan tugas harian
-- Kurangnya motivasi dalam penggunaan aplikasi to-do list konvensional
-- Tidak adanya feedback atau reward yang mendorong produktivitas
-- Sulitnya pengguna memantau progres penyelesaian tugas
+### 📌 Latar Belakang
+Banyak individu mengalami kesulitan dalam menjaga konsistensi dan motivasi saat menyelesaikan tugas harian. Aplikasi konvensional dinilai kurang interaktif, sehingga menyebabkan prokrastinasi. **Gawean** hadir dengan pendekatan **Gamifikasi** untuk memberikan feedback instan bagi produktivitas pengguna.
 
----
-
-## 💡 Solusi yang Ditawarkan
-
-Gawean hadir sebagai solusi dengan menerapkan konsep **Gamified To-Do List**, di mana pengguna mendapatkan pengalaman yang lebih interaktif melalui sistem poin, level, dan pencapaian (achievement).
-
----
-
-## ⚙️ Metode Pendekatan
-
-Pengembangan aplikasi ini menggunakan pendekatan **User-Centered Design (UCD)** dengan tahapan sebagai berikut:
-
-1. Empathize
-2. Define
-3. Ideate
-4. Prototype
-5. Testing
-
-Pendekatan ini memastikan bahwa aplikasi dirancang berdasarkan kebutuhan dan perilaku pengguna.
-
----
-
-## 🎯 Tujuan dan Kriteria Keberhasilan
-
-### Tujuan:
-- Membantu pengguna mengelola tugas secara efektif
-- Meningkatkan motivasi dan produktivitas pengguna
-- Memberikan pengalaman pengguna (UX) yang menarik dan intuitif
-
-### Kriteria Keberhasilan:
-- Pengguna mampu menyelesaikan tugas secara konsisten
-- Peningkatan engagement melalui sistem gamifikasi
-- Antarmuka aplikasi mudah digunakan dan dipahami
+### ❗ Masalah & Solusi
+- **Masalah:** Rendahnya konsistensi, kurangnya motivasi, dan sulitnya memantau progres secara menyenangkan.
+- **Solusi:** Penerapan konsep poin, level, dan achievement untuk meningkatkan *engagement* pengguna melalui metode *User-Centered Design* (UCD).
 
 ---
 
 ## 🧩 Fitur Utama
-
-- 🔐 Login & Register
-- 📝 Manajemen Tugas (Tambah, Edit, Hapus)
-- 🎮 Gamifikasi (Poin, Level, Achievement)
-- 📊 Dashboard Ringkasan Progres
-- 🔔 Pengingat Tugas
-- 🌗 Dark Mode & Light Mode
-
----
-
-## 🛠️ Teknologi yang Digunakan
-
-- **Flutter**
-- **Dart**
-- **Android Studio**
-- **Material Design**
+Aplikasi ini dilengkapi dengan fitur-fitur esensial untuk produktivitas:
+- 🔐 **Authentication:** Login & Register yang aman.
+- 📝 **Task Management:** Operasi CRUD tugas harian.
+- 🎮 **Gamification System:** Perolehan Poin, kenaikan Level, dan Achievement.
+- 📊 **Insight Dashboard:** Ringkasan progres tugas yang intuitif.
+- 🌗 **Flexible UI:** Dukungan penuh untuk Dark Mode & Light Mode.
 
 ---
 
-## 🚀 Cara Menjalankan Proyek
+## ⚙️ Metodologi Pengembangan
+Kami menggunakan alur **User-Centered Design (UCD)** untuk memastikan aplikasi tepat sasaran:
+1. **Empathize:** Memahami kendala produktivitas pengguna.
+2. **Define:** Menentukan kebutuhan fitur utama.
+3. **Ideate:** Menyusun konsep gamifikasi.
+4. **Prototype:** Pengembangan antarmuka (UI) menggunakan Flutter.
+5. **Testing:** Validasi kegunaan aplikasi kepada target pengguna.
+
+---
+
+## 🛠️ Tech Stack & Alat
+- **Framework:** Flutter (Dart)
+- **UI Kit:** Material Design 3
+- **IDE:** Android Studio / VS Code
+- **Version Control:** Git & GitHub
+
+---
+
+## 🚀 Instalasi & Penggunaan
+
+Ikuti langkah berikut untuk menjalankan proyek di perangkat lokal Anda:
 
 ```bash
 git clone https://github.com/USERNAME_KAMU/gawean.git
