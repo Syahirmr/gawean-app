@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design">
 </p>
 
-**Gawean** adalah aplikasi To-Do List berbasis gamifikasi yang dirancang untuk membantu pengguna meningkatkan motivasi, konsistensi, dan produktivitas dalam menyelesaikan tugas harian. Aplikasi ini dikembangkan sebagai **Tugas Akhir Mata Kuliah Interaksi Manusia dan Komputer (IMK)**.
+**Gawean** adalah aplikasi To-Do List berbasis gamifikasi yang dirancang untuk membantu pengguna meningkatkan motivasi, konsistensi, dan produktivitas dalam menyelesaikan tugas harian. Aplikasi ini dikembangkan sebagai **Tugas Akhir Mata Kuliah Pengembangan Aplikasi Mobile (PAM)**.
 
 ---
 
@@ -15,11 +15,11 @@
 
 <div align="center">
 
-| [<img src="assets/team/syahir.png" width="140" style="border-radius:50%; border:3px solid #FFD700;"><br><sub>**Syahir**</sub>](https://github.com/Syahirmr) | [<img src="assets/team/salma.jpeg" width="140" style="border-radius:50%; border:3px solid #FFD700;"><br><sub>**Salma**</sub>](https://github.com/Skskydh) | [<img src="assets/team/sarah.jpeg" width="140" style="border-radius:50%; border:3px solid #FFD700;"><br><sub>**Sarah**</sub>](https://github.com/Sarahnurulyakin) |
-| :---: | :---: | :---: |
-| ![NIM](https://img.shields.io/badge/NIM-1237050022-blue?style=flat-square) | ![NIM](https://img.shields.io/badge/NIM-1237050028-blue?style=flat-square) | ![NIM](https://img.shields.io/badge/NIM-1237050014-blue?style=flat-square) |
-| **Project Leader** | **UI/UX Designer** | **Frontend Developer** |
-| UI/UX Designer | Frontend Developer | Documentation & QA |
+| [<img src="assets/team/syahir.png" width="140" style="border-radius:50%; border:3px solid #FFD700;"><br><sub>**Syahir Mohamad Ramdhan**</sub>](https://github.com/Syahirmr) | [<img src="assets/team/salma.png" width="140" style="border-radius:50%; border:3px solid #FFD700;"><br><sub>**Salma Nur Oktavia**</sub>](https://github.com/Skskydh) | [<img src="assets/team/sarah.jpeg" width="140" style="border-radius:50%; border:3px solid #FFD700;"><br><sub>**Sarah Nurul Yakin**</sub>](https://github.com/Sarahnurulyakin) |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                 ![NIM](https://img.shields.io/badge/NIM-1237050022-blue?style=flat-square)                                                  |                                              ![NIM](https://img.shields.io/badge/NIM-1237050028-blue?style=flat-square)                                              |                                                  ![NIM](https://img.shields.io/badge/NIM-1237050014-blue?style=flat-square)                                                   |
+|                                                                             **Project Leader**                                                                              |                                                                          **UI/UX Designer**                                                                          |                                                                            **Frontend Developer**                                                                             |
+|                                                                             Fullstack Developer                                                                             |                                                                          Frontend Developer                                                                          |                                                                              Documentation & QA                                                                               |
 
 <br>
 
@@ -52,7 +52,6 @@ Banyak individu mengalami kesulitan dalam mengatur waktu dan menjaga motivasi da
 ---
 
 ## 🧩 Fitur Utama
-- 🔐 **Secure Auth:** Sistem Login & Register.
 - 📝 **Task Management:** Operasi CRUD tugas harian.
 - 🎮 **Gamification:** Perolehan Poin, Leveling system, dan Achievements.
 - 📊 **Insight Dashboard:** Visualisasi ringkasan progres tugas.
@@ -81,7 +80,7 @@ Pengembangan ini mengikuti lima tahapan **User-Centered Design (UCD)**:
 
 ```bash
 # 1. Clone repository ini
-git clone [https://github.com/USERNAME_KAMU/gawean.git](https://github.com/USERNAME_KAMU/gawean.git)
+git clone https://github.com/Syahirmr/gawean-app
 
 # 2. Masuk ke folder project
 cd gawean
