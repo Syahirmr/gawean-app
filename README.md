@@ -7,77 +7,87 @@
   <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design">
 </p>
 
-**Gawean** adalah aplikasi To-Do List berbasis gamifikasi yang dirancang untuk meningkatkan motivasi, konsistensi, dan produktivitas harian. Proyek ini dikembangkan sebagai **Tugas Akhir Mata Kuliah Interaksi Manusia dan Komputer (IMK)**.
+**Gawean** adalah aplikasi To-Do List berbasis gamifikasi yang dirancang untuk membantu pengguna meningkatkan motivasi, konsistensi, dan produktivitas dalam menyelesaikan tugas harian. Aplikasi ini dikembangkan sebagai **Tugas Akhir Mata Kuliah Interaksi Manusia dan Komputer (IMK)**.
 
 ---
 
 ## 👨‍💻 Our Team
 
-| [<img src="assets/team/syahir.png" width="150"><br><sub>**Syahir Mohamad Ramdhan**</sub>](https://github.com/Syahirmr)<br>1237050022 | [<img src="assets/team/salma.jpeg" width="150"><br><sub>**Salma Nur Oktavia**</sub>](https://github.com/Skskydh)<br>1237050028 | [<img src="assets/team/sarah.jpeg" width="150"><br><sub>**Sarah Nurul Yakin**</sub>](https://github.com/Sarahnurulyakin)<br>1237050014 |
+<div align="center">
+
+| [<img src="assets/team/syahir.png" width="140" style="border-radius:50%; border:3px solid #FFD700;"><br><sub>**Syahir**</sub>](https://github.com/Syahirmr) | [<img src="assets/team/salma.jpeg" width="140" style="border-radius:50%; border:3px solid #FFD700;"><br><sub>**Salma**</sub>](https://github.com/Skskydh) | [<img src="assets/team/sarah.jpeg" width="140" style="border-radius:50%; border:3px solid #FFD700;"><br><sub>**Sarah**</sub>](https://github.com/Sarahnurulyakin) |
 | :---: | :---: | :---: |
+| ![NIM](https://img.shields.io/badge/NIM-1237050022-blue?style=flat-square) | ![NIM](https://img.shields.io/badge/NIM-1237050028-blue?style=flat-square) | ![NIM](https://img.shields.io/badge/NIM-1237050014-blue?style=flat-square) |
+| **Project Leader** | **UI/UX Designer** | **Frontend Developer** |
 | UI/UX Designer | Frontend Developer | Documentation & QA |
 
-<p align="center">
-  <b>Informatics Engineering</b><br>
-  <a href="https://uinsgd.ac.id/">UIN Sunan Gunung Djati Bandung</a> • 
-  <a href="http://if.uinsgd.ac.id/">Jurusan Teknik Informatika</a>
-</p>
+<br>
+
+<b>Informatics Engineering</b><br>
+<a href="https://uinsgd.ac.id/">UIN Sunan Gunung Djati Bandung</a> • <a href="http://if.uinsgd.ac.id/">Jurusan Teknik Informatika</a>
+</div>
 
 ---
 
 ## 📂 Project Resources
 
-Untuk informasi mendalam mengenai proses perancangan dan desain aplikasi, silakan akses tautan berikut:
+Berikut adalah sumber daya utama terkait pengembangan aplikasi Gawean:
 
 * 📚 **[Pitch Deck - Gawean Application](https://www.canva.com/design/DAG9Luq-qmo/CWSt-ZWf2xhHc_kdaDHoug/edit?utm_content=DAG9Luq-qmo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+* 📝 **[Case Study & Documentation (Medium)](https://medium.com/@salmanuroktavia2004/gawean-gamify-to-do-list-level-up-produktivitas-dengan-sistem-quest-poin-dan-badge-4a10cb3225c0)**
 
 ---
 
 ## 📋 Ringkasan Proyek
 
 ### 📌 Latar Belakang
-Banyak individu mengalami kesulitan dalam menjaga konsistensi dan motivasi saat menyelesaikan tugas harian. Aplikasi konvensional dinilai kurang interaktif, sehingga menyebabkan prokrastinasi. **Gawean** hadir dengan pendekatan **Gamifikasi** untuk memberikan feedback instan bagi produktivitas pengguna.
+Banyak individu mengalami kesulitan dalam mengatur waktu dan menjaga motivasi dalam menyelesaikan tugas. Aplikasi pencatat tugas konvensional seringkali terasa membosankan. **Gawean** hadir sebagai solusi manajemen tugas yang interaktif melalui pendekatan **Gamifikasi**.
 
-### ❗ Masalah & Solusi
-- **Masalah:** Rendahnya konsistensi, kurangnya motivasi, dan sulitnya memantau progres secara menyenangkan.
-- **Solusi:** Penerapan konsep poin, level, dan achievement untuk meningkatkan *engagement* pengguna melalui metode *User-Centered Design* (UCD).
+
+
+### ❗ Identifikasi Masalah & Solusi
+- **Masalah:** Kurangnya feedback atau reward yang mendorong produktivitas serta sulitnya memantau progres secara berkelanjutan.
+- **Solusi:** Menerapkan sistem poin, level, dan achievement menggunakan metode **User-Centered Design (UCD)** untuk menciptakan pengalaman pengguna yang intuitif.
 
 ---
 
 ## 🧩 Fitur Utama
-Aplikasi ini dilengkapi dengan fitur-fitur esensial untuk produktivitas:
-- 🔐 **Authentication:** Login & Register yang aman.
+- 🔐 **Secure Auth:** Sistem Login & Register.
 - 📝 **Task Management:** Operasi CRUD tugas harian.
-- 🎮 **Gamification System:** Perolehan Poin, kenaikan Level, dan Achievement.
-- 📊 **Insight Dashboard:** Ringkasan progres tugas yang intuitif.
-- 🌗 **Flexible UI:** Dukungan penuh untuk Dark Mode & Light Mode.
+- 🎮 **Gamification:** Perolehan Poin, Leveling system, dan Achievements.
+- 📊 **Insight Dashboard:** Visualisasi ringkasan progres tugas.
+- 🌗 **Theming:** Mendukung Dark Mode & Light Mode.
 
 ---
 
-## ⚙️ Metodologi Pengembangan
-Kami menggunakan alur **User-Centered Design (UCD)** untuk memastikan aplikasi tepat sasaran:
-1. **Empathize:** Memahami kendala produktivitas pengguna.
-2. **Define:** Menentukan kebutuhan fitur utama.
-3. **Ideate:** Menyusun konsep gamifikasi.
-4. **Prototype:** Pengembangan antarmuka (UI) menggunakan Flutter.
-5. **Testing:** Validasi kegunaan aplikasi kepada target pengguna.
+## ⚙️ Metode Pendekatan
+Pengembangan ini mengikuti lima tahapan **User-Centered Design (UCD)**:
+1. **Empathize** (Empati terhadap kendala pengguna)
+2. **Define** (Menentukan inti permasalahan)
+3. **Ideate** (Menciptakan solusi kreatif)
+4. **Prototype** (Membangun antarmuka aplikasi)
+5. **Testing** (Validasi kepada pengguna akhir)
 
 ---
 
-## 🛠️ Tech Stack & Alat
-- **Framework:** Flutter (Dart)
-- **UI Kit:** Material Design 3
-- **IDE:** Android Studio / VS Code
-- **Version Control:** Git & GitHub
+## 🛠️ Teknologi yang Digunakan
+- **Framework:** [Flutter](https://flutter.dev/) (Dart)
+- **UI System:** Material Design 3
+- **Tools:** Android Studio, VS Code, Git
 
 ---
 
-## 🚀 Instalasi & Penggunaan
-
-Ikuti langkah berikut untuk menjalankan proyek di perangkat lokal Anda:
+## 🚀 Cara Menjalankan Proyek
 
 ```bash
-git clone https://github.com/USERNAME_KAMU/gawean.git
+# 1. Clone repository ini
+git clone [https://github.com/USERNAME_KAMU/gawean.git](https://github.com/USERNAME_KAMU/gawean.git)
+
+# 2. Masuk ke folder project
 cd gawean
+
+# 3. Ambil dependencies Flutter
 flutter pub get
+
+# 4. Jalankan aplikasi (pastikan Emulator/Device sudah siap)
 flutter run
